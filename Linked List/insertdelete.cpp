@@ -168,3 +168,5 @@ int main(){
     printLL(head);
     return 0;
 }
+
+// Output: 25 28 30 40
